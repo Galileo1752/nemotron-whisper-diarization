@@ -1,0 +1,7 @@
+nemo_toolkit[asr]
+torch
+torchaudio
+whisper-s2t
+soundfile
+librosa
+ffmpeg-python
